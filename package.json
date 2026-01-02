@@ -1,0 +1,22 @@
+{
+  "name": "chaiaurcode",
+  "version": "1.0.0",
+  "description": "a basic node application",
+  "keywords": [
+    "node",
+    "backend",
+    "learning"
+  ],
+  "license": "ISC",
+  "author": "shyam sunder",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
